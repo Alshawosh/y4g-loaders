@@ -1,0 +1,357 @@
+[
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A01 (SM-S111DL) BIT-E",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/FILE_LOADER_S111DL_UE.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A02s (SM-S124DL) BIT-B",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S124DL_Loader_Bit-B.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057F) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A057F_bit9.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057G) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A057G_bit7.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057M) BIT-2",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A057M-U2-Loader.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057M) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A057M_LOADER_BIT5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057M) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A057M_U7_Firehose.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057M) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A057M_U8_Loader.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A05s (SM-A057M) BIT-B",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/SM-A057M-Bit11(B).elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A9 (SM-A920F) BIT-1",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A920F_LOADER_FILE_BIT1.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A9 (SM-A920F) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A920F_FILE_LOADER_BIT7.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A11 (SM-A115F) Bit-2",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A11_A115F_Bit2.mbn"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A20s (SM-A207F) Bit-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A207F_LOADER_BIT5.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 (SM-A235F) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/a235f_bit9.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 (SM-A235M) BIT-B",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/a235m_bitb.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 (SM-A235N) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A235N_LOADER_BIT5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 5G (SM-A236E) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A236E_BIT_5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 5G (SM-A236E) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A236E_Loader_Bit7.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 5G (SM-A236U) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A236U_LOADER_BIT4.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 5G (SM-A236U) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A236U_LOADER_BIT5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A23 5G (SM-A236U) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A236U_U6_FILE_LOADER.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A42 5G (SM-A426U) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A426U_LOADER_BIT7.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A42 5G (SM-A426U) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A426U_LOADER_BIT8.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A42 5G (SM-A426U) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A426ULOADER_BIT9.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52 (SM-A525F) BIT-C",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/a525f_bitc.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52 (SM-A525M) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A525M_LOADER_BIT6.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52 5G (SM-A526B) BIT-1-To-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A52.5G.U1-U6.SM-A526B.LOADER"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52 5G (SM-A526B) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A526B_U6_LOADER_FILE.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52s 5G (SM-A528B) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A528B_BIT_6.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52s 5G (SM-A528B) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A528B_LOADER_BIT8.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A52s 5G (SM-A528B) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A528B_LOADER_BIT9.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A60 (SM-A6060) BIT-3",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A6060_LOADER_BIT3.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A70 (SM-A705Y) BIT-3",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/SM-A705Y_U3_LOADER_FILE.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A70s (SM-A707F) Bit-3",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/SM-A707F_LOADER_BIT3.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A71 (SM-A715F) BIT-1-To-A",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A715F_LOADER_BIT1-A.ufl"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A71 (SM-A715F) BIT-B",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A715F_LOADER_UB_U11.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A71 (SM-A715W) BIT-1-To-A",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A715W_LOADER_BIT1-A.ufl"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A72 (SM-A725F) BIT-B",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/a725f_bitb.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A72 (SM-A725M) BIT-A",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/a725m_bita.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A73 (SM-A736B) Bit-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A736B_LOADER_BIT5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A73 (SM-A736B) Bit-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A736B_LOADER_BIT6.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A73 (SM-A736B) Bit-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A736B_Loader_Bit9.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A80 (SM-A805) Bit-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/A805_LOADER_BIT4.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung A90 5G (SM-A905F) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/SM-A905F_LOADER_U4.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Tab S6 (SM-T867U) BIT-A",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/t867u_bita.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung TAB A7 (SM-T500) Bit-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/T500_LOADER_BIT8.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Tab A7 (SM-T505N) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/t505n_u7.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung TAB A9+ (SM-X210) Bit-1",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/X210_LOADER_BIT1.mf0"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Tab A9+ (SM-X210) BIT-3",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/samsung_tab_a9_plus_SM_X210_bit_3.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Tab A9+ (SM-X210) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/samsung_tab_a9_plus_SM_X210_bit_5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung TAB A9+ 5G (SM-X216B) Bit-1",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/X216B_U1_FILER_LOADER.mbn"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Tab A9+ 5G (SM-X216B) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/x216b_bit8.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 8 (SM-N950U) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N950U_Loader_Bit.8.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 8 (SM-N9500) BIT-3",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N9500_LOADER_BIT3.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 8 (SM-N9500) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N9500_LOADER_BIT5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 9 (SM-N9600) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N9600_LOADER_BIT4.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 10 (SM-N9700) BIT-2",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N9700_LOADER_BIT2.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 10+ (SM-N975U) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N975U_BIT-7.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 10+ (SM-N975U) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N975U_BIT-8.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 20 5G (SM-N981U) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N981U_LOADER_BIT5.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 20 5G (SM-N981U) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N981U_LOADER_BIT6.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Note 20 5G (SM-N981U) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/N981U_LOADER_BIT9.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung F23 5G (SM-E236B) BIT-A",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/e236b_bita.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung M51 (SM-M515F) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/M515F_BIT6.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung M52 5G (SM-M526BR) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/m526br_bit7.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Z Fold3 5G (SM-F926B) BIT-C",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/f926b_bitc.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Z Fold4 (SM-F936U) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/F936U_BIT-4.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Z Fold5 (SM-F946B) BIT-3",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/SM-F946B_BIT_3.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Z Fold7 (SM-F996U) BIT-1",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/f996u_bit1.elf"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Samsung Z Fold7 5G (SM-F996B) BIT-1",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/f996b_bit1.elf"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Redmi Note 12",
+    "Loader": "RN12.elf"
+  }
+]
