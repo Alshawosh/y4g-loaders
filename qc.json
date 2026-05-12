@@ -488,5 +488,160 @@
     "Brand": "Huawei",
     "Model": "Huawei TRT-L53 ( Y7 Prime )",
     "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-L53_Y7Prime.mbn"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S9+ (SM-G9650) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/G9650_U5_File_Loader.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S10 Lite (SM-G770F) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/g770f_bit9.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S10+ (SM-G975U) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/G975U_U9.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S20 5G (SM-G981U) BIT-1-To-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S20.5G.U1-U7.SM-G981U"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S20 5G (SM-G981U) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/G981U_FILE_LOADER_U7.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S20 5G (SM-G981U) BIT-8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/G981U_FILE_LOADER_U8.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S20 5G (SM-G981U) BIT-9",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/G981U_FILE_LOADER_U9.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S20 5G (SM-G981U) BIT-A",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/G981U_FILE_LOADER_U10.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S21 5G (SM-G991U) BIT-F",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/g991u_bitf.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S21 Ultra 5G (SM-G998U1) BIT-E",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/g998u1_bite.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S21+ 5G (SM-G996U) BIT-G",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/g996u_bitg.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S22 5G (SM-S901E) BIT-C",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/s901e_bitc.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S22 5G (SM-S901J) BIT-1",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/s901j_bit1.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S22 Ultra 5G (SM-S908E) BIT-C",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/s908e_bitc.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S22 Ultra 5G (SM-S908N) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/s908n_bit7.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S22+ (SM-S906N) BIT-7",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/s906n_bit7.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S23 Ultra (SM-S918B) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S918B_BIT-4.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S23 Ultra (SM-S918N) BIT-2",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S918N_BIT_2.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S23 Ultra (SM-S918U) BIT-5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S918U_LOADER_BIT5.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S23+ 5G (SM-S916U) BIT-6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S916U_LOADER_BIT6.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S24 Ultra (SM-S928U) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S928U_LOADER_BIT4.elf"
+  },
+  {
+    "Brand":"Samsung",
+    "Model": "Samsung S24+ (SM-S926U) BIT-4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/S926U_LOADER_BIT4.elf"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Xiaomi Redmi Note 8",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/redmi_note_8.elf"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Xiaomi Redmi Note 8T",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/redmi_note_8t.elf"
+  },
+  {
+    "Brand": "REVVL",
+    "Model": "REVVL 7 (SM6450)",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/revvl_7_SM6450.elf"
+  },
+  {
+    "Brand": "ViVO",
+    "Model": "ViVO Y12S 2021",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/vivo_y12s_2021.mbn"
+  },
+  {
+    "Brand": "ViVO",
+    "Model": "VIVO Y35 (PD1502F)",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/vivo_y35_PD1502F.mbn"
+  },
+  {
+    "Brand": "OPPO",
+    "Model": "Oppo Reno 4",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/oppo_reno_4.elf"
+  },
+  {
+    "Brand": "OPPO",
+    "Model": "Oppo Reno 5",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/oppo_reno_5.elf"
+  },
+  {
+    "Brand": "OPPO",
+    "Model": "Oppo Reno 6",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/oppo_reno_6.elf"
+  },
+  {
+    "Brand": "OnePlus",
+    "Model": "OnePlus Nord 5G AC2001",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/nord_5g_ac2001.elf"
   }
 ]
