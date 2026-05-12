@@ -350,11 +350,6 @@
     "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/f996b_bit1.elf"
   },
   {
-    "Brand": "Xiaomi",
-    "Model": "Redmi Note 12",
-    "Loader": "RN12.elf"
-  },
-  {
     "Brand": "Huawei",
     "Model": "Huawei LND-AL30 ( Honor 7C )",
     "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-AL30_Honor7C.mbn"
