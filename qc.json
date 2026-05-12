@@ -353,5 +353,140 @@
     "Brand": "Xiaomi",
     "Model": "Redmi Note 12",
     "Loader": "RN12.elf"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LND-AL30 ( Honor 7C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-AL30_Honor7C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LND-AL40 ( Honor 7C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-AL40_Honor7C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LND-L21 ( Honor 7C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-L21_Honor7C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LND-L29 ( Honor 7C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-L29_Honor7C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LND-TL30 ( Honor 7C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-TL30_Honor7C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LND-TL40 ( Honor 7C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LND-TL40_Honor7C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-L02 ( Y7 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-L02_Y72018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-L03 ( Y7 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-L03_Y72018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-L21 ( Y7 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-L21_Y72018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-L21 ( Y7 Prime 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-L21_Y7Prime2018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-L23 ( Y7 Prime 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-L23_Y7Prime2018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-LX2 ( Y7 Prime 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-LX2_Y7Prime2018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-LX3 ( Y7 Prime 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-LX3_Y7Prime2018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei LDN-TL10 ( Y7 Prime 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/LDN-TL10_Y7Prime2018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-AL00 ( Honor 8C 2018 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-AL00_Honor8C2018.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-AL00B (Honor 8C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-AL00B_Honor8C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-L21 ( Honor 8C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-L21_Honor8C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-L22 ( Honor 8C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-L22_Honor8C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-LX1 ( Honor 8C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-LX1_Honor8C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-LX2 ( Honor 8C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-LX2_Honor8C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei BKK-TL00 ( Honor 8C )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/BKK-TL00_Honor8C.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei TRT-LX1 ( Y7 2017 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-LX1_Y72017.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei TRT-LX2 ( Y7 2017 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-LX2_Y7.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei TRT-LX3 ( Y7 2017 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-LX3_Y7.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei TRT-L03 ( Y7 2017 )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-L03_Y7.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei TRT-L21A ( Y7 Prime )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-L21A_Y7Prime.mbn"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Huawei TRT-L53 ( Y7 Prime )",
+    "Loader": "https://github.com/Alshawosh/y4g-loaders/releases/download/v1.0/TRT-L53_Y7Prime.mbn"
   }
 ]
